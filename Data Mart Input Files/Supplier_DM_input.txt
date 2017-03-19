@@ -1,0 +1,26 @@
+SUPPLIERID,SNAME,SADDR1,SADDR2,SCITY,SSTATE,SZIP,Company,supplier_SK
+1,Dollar General Corporation,Attn : Antoinette Hickey,3988 Chanced Avenue,S Middleton, PA,17007,TPCW,1
+1,Specialty Teleconstructors Incorporation,Attn : Zylina Cox,2161 Chalmers Street,Salinas,CA,93905,TPCE,2
+10,Saurer Group Holding ,Attn : Pearce Valdez,3727 Elms Drive,South Saint Paul,MN,55077,TPCE,3
+10,Specialty Teleconstructors Incorporation,Attn : Zylina Cox,2161 Chalmers Street,Salinas, CA,93905,TPCW,4
+2,Sinclair Broadcast Group Incorporation,Attn : Carla Shelby,6037 Ecuadorian Street,Clinton, MI,49236,TPCW,5
+2,Sinclair Broadcast Group Incorporation,Attn : Carla Shelby,6037 Ecuadorian Street,Clinton,MI,49236,TPCE,6
+3,Afg Industries Incorporation,Attn : Dorothy Polk,5377 Cookbook Circle,Vero Beach, FL,32967,TPCW,7
+3,Black Hills Corporation,Attn : Edena Gilbert,1618 Greenland Street,Tallahassee,FL,32304,TPCE,8
+4,Black Hills Corporation,Attn : Edena Gilbert,1618 Greenland Street,Tallahassee, FL,32304,TPCW,9
+4,Immunex Corporation,Attn : Elbert Glad,5841 Pervades Drive,Fairfax,VA,22035,TPCE,10
+5,Dollar General Corporation,Attn : Antoinette Hickey,3988 Chanced Avenue,S Middleton,PA,17007,TPCE,11
+5,Immunex Corporation,Attn : Elbert Glad,5841 Pervades Drive,Fairfax, VA,22035,TPCW,12
+6,First Bancshares Incorporation,Attn : Jensine Lease,11885 Aural Turnpike,Louisville, KY,40253,TPCW,13
+6,First Bancshares Incorporation,Attn : Jensine Lease,11885 Aural Turnpike,Louisville,KY,40253,TPCE,14
+7,Afg Industries Incorporation,Attn : Dorothy Polk,5377 Cookbook Circle,Vero Beach,FL,32967,TPCE,15
+7,American General Ventures Incorporation,Attn : Kimberly Yarborough,1616 Goggles Drive,Sterling, KS,67579,TPCW,16
+8,American General Ventures Incorporation,Attn : Kimberly Yarborough,1616 Goggles Drive,Sterling,KS,67579,TPCE,17
+8,Saurer Gruppe Holding,Attn : Pearce Valdez,3737 Elms Drive,South Saint Paul, MN,55077,TPCW,18
+9,Fedders Corporation,Attn : Virgil Hubert,7844 Carelessly Drive,Overlook, WA,98366,TPCW,19
+9,Fedders Corporation,Attn : Virgil Hubert,7844 Carelessly Drive,Overlook,WA,98366,TPCE,20
+9997, PEC, , , , , ,PEC,21
+9997, PEC, , , , , ,TPCE,22
+9997, PEC, , , , , ,TPCW,23
+9998, TPCW, , , , , ,PEC,24
+9999, TPCE, , , , , ,PEC,25

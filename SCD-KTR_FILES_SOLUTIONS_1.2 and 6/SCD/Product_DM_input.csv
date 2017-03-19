@@ -1,0 +1,19 @@
+BUID,PRODTYPEID,PRODID,BNAME,BABBREV,TYPEDESCRIPTION,PRODDESCRIPTION,PRICE1,PRICE2,Current_PRICE2,UNITCOST,Company,Product_SK,valid_from,valid_thru,product_version_number
+A   ,1,320,Processing Equipment,Equipment,Photo Equipment,Flake Photo Equipment,232.26,204.39,204.39,194.17,TPCE,1,01/01/1900,09/12/2015,1
+A   ,1,332,Processing Equipment,Equipment,Photo Equipment,Chartable Photo Equipment,410.17,347.41,347.41,312.67,TPCE,2,01/01/1900,09/12/2015,1
+A   ,1,335,Processing Equipment,Equipment,Photo Equipment,Chromium Photo Equipment,565.5,457.49,457.49,425.47,TPCE,3,01/01/1900,09/12/2015,1
+A   ,1,336,Processing Equipment,Equipment,Photo Equipment,Bomber Photo Equipment,461.34,400.44,400.44,380.42,TPCE,4,01/01/1900,09/12/2015,1
+A   ,1,371,Processing Equipment,Equipment,Photo Equipment,Simulations Photo Equipment,318.38,255.66,255.66,245.43,TPCE,5,01/01/1900,09/12/2015,1
+A   ,1,377,Processing Equipment,Equipment,Photo Equipment,Vastest Photo Equipment,498.08,442.3,442.3,420.19,TPCE,6,01/01/1900,09/12/2015,1
+A   ,2,3100,Processing Equipment,Equipment,Manufacturing Equipment,Pervasively Manufacturing  Equipment,374.14,334.86,334.86,308.07,TPCE,7,01/01/1900,09/12/2015,1
+A   ,2,318,Processing Equipment,Equipment,Manufacturing Equipment,Miniaturizing Manufacturing  Equipment,456.24,379.59,379.59,353.02,TPCE,8,01/01/1900,09/12/2015,1
+A   ,2,324,Processing Equipment,Equipment,Manufacturing Equipment,Bandage Manufacturing  Equipment,298,267.01,267.01,253.66,TPCE,9,01/01/1900,09/12/2015,1
+A   ,2,334,Processing Equipment,Equipment,Manufacturing Equipment,Sailors Manufacturing  Equipment,340.48,290.43,290.43,278.81,TPCE,10,01/01/1900,09/12/2015,1
+A   ,2,340,Processing Equipment,Equipment,Manufacturing Equipment,Insensitivity Manufacturing  Equipment,200.71,180.44,180.44,169.61,TPCE,11,01/01/1900,09/12/2015,1
+A   ,2,344,Processing Equipment,Equipment,Manufacturing Equipment,Birthdays Manufacturing  Equipment,196.56,173.17,173.17,161.05,TPCE,12,01/01/1900,09/12/2015,1
+A   ,2,36,Processing Equipment,Equipment,Manufacturing Equipment,Planetesimal Manufacturing  Equipment,347.28,307,307,285.51,TPCE,13,01/01/1900,09/12/2015,1
+A   ,2,360,Processing Equipment,Equipment,Manufacturing Equipment,Habitually Manufacturing  Equipment,509.3,419.15,419.15,394,TPCE,14,01/01/1900,09/12/2015,1
+A   ,2,361,Processing Equipment,Equipment,Manufacturing Equipment,Courthouses Manufacturing  Equipment,285.62,243.63,243.63,231.45,TPCE,15,01/01/1900,09/12/2015,1
+A   ,2,365,Processing Equipment,Equipment,Manufacturing Equipment,Extinguisher Manufacturing  Equipment,120.39,98.36,98.36,90.49,TPCE,16,01/01/1900,09/12/2015,1
+A   ,2,367,Processing Equipment,Equipment,Manufacturing Equipment,Occlusion Manufacturing  Equipment,199.88,177.29,177.29,164.88,TPCE,17,01/01/1900,09/12/2015,1
+A   ,2,370,Processing Equipment,Equipment,Manufacturing Equipment,Escape Manufacturing  Equipment,584.38,523.6,523.6,507.89,TPCE,18,01/01/1900,09/12/2015,1

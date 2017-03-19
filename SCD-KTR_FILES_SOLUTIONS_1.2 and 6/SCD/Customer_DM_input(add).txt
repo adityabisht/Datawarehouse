@@ -1,0 +1,18 @@
+CUSTID	TYPEID	TYPENAME	CUSTNAME	ADDR1	ADDR2	CITY	STATE	ZIP	Company
+330	3	State/Local Government	Pulitzer Publishing Company	test1	126 Pathological Circle	Woodbury	NY	11797	TPCE
+331	3	State/Local Government	Setron	test2	3085 Breakthrough Drive	Hart	MO	64865	TPCE
+332	4	US Government	Greenman Technologies Incorporation	test3	4910 Liveried Boulevard	Dabney	IN	47023	TPCE
+333	1	Commercial	Polymer Group Incorporation	test4	11368 Harder Drive	Maidstone	VT	5905	TPCE
+334	2	Education	Emerson Electric Co.	test5	1792 Squash Drive	South Texarkana	TX	75501	TPCE
+335	4	US Government	Integral - A Hotel & Restaurant Company	test6	5222 Blazed Street	Parsons	TN	38363	TPCE
+336	4	US Government	Hickory Tech Corporation	test7	11119 Periphery Turnpike	Simpson	LA	71474	TPCE
+337	2	Education	Televideo Incorporation	test8	939 Publishers Turnpike	Fort Hood	TX	76544	TPCE
+338	4	US Government	Seattle Filmworks Incorporation	test9	4958 Dietitian Street	Davis	MO	63379	TPCE
+339	1	Commercial	Pricellular Corporation	test10	10947 Eagle Street	Lisbon Falls	ME	4252	TPCE
+34	4	US Government	Magainin Pharmaceuticals Incorporation	test11	9138 Planetesimal Lane	Twining	MI	48766	TPCE
+340	1	Commercial	Processing Equipment Corporation	test12	29843 Klingon Road	Naperville	IL	60563	TPCE
+35	2	Education	Sterling Financial Corporation Washington	test13	7258 Meriting Avenue	Portland	OR	97201	TPCE
+36	3	State/Local Government	Fidelity National Corporation 	test14	11455 Sheaf Drive	Anthony	FL	32617	TPCE
+37	2	Education	Fedders Corporation	test15	3311 Blatantly Circle	Santa Fe Springs	CA	90670	TPCE
+38	2	Education	United Healthcare Corporation	test16	675 Hordes Turnpike	Malaga	NM	88263	TPCE
+39	4	US Government	Greate Bay Casino Corporation 	test17	4255 Depart Lane	Randolph Air Force Base	TX	78148	TPCE

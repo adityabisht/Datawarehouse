@@ -1,0 +1,250 @@
+BUID;PRODTYPEID;PRODID;BNAME;BABBREV;TYPEDESCRIPTION;PRODDESCRIPTION;PRICE1;PRICE2;UNITCOST;Company;Product_SK
+;;21;;;;Enumerator Polishing Equipmentment;164.97;142.53;120;PEC;1
+;;210;;;;Chartable Photo Equipmentment;410.17;347.41;295;PEC;2
+;;211;;;;Sailors Manufacturing Equipment;340.48;290.43;235;PEC;3
+;;212;;;;Chromium Photo Equipmentment;565.5;457.49;326;PEC;4
+;;213;;;;Coward Covers;429.79;348.99;328.05;PEC;5
+;;214;;;;Travelings Photo Chemicals;274.39;242.01;225.07;PEC;6
+;;215;;;;Syntax Polishing Equipmentment;226.72;190.9;123;PEC;7
+;;216;;;;Insensitivity Manufacturing Equipment;200.71;180.44;117;PEC;8
+;;217;;;;Sortie Covers;248.21;213.21;206.81;PEC;9
+;;218;;;;Allis Polishing Equipmentment;201.77;176.35;112;PEC;10
+;;219;;;;Habitually Manufacturing Equipment;509.3;419.15;354;PEC;11
+;;22;;;;Planetesimal Manufacturing Equipment;347.28;307;250;PEC;12
+;;220;;;;Courthouses Manufacturing Equipment;285.62;243.63;182;PEC;13
+;;221;;;;Weeks Polishing Equipmentment;198.83;174.18;151,07;PEC;14
+;;222;;;;Extinguisher Manufacturing Equipment;120.39;98.36;65;PEC;15
+;;223;;;;Occlusion Manufacturing Equipment;199.88;177.29;72;PEC;16
+;;224;;;;Loaves Polishing Equipmentment;425.59;361.33;241;PEC;17
+;;225;;;;Automobiles Fillers;283.83;227.63;218.52;PEC;18
+;;226;;;;Simulations Photo Equipmentment;318.38;255.66;193;PEC;19
+;;227;;;;Vastest Photo Equipmentment;498.08;442.3;294;PEC;20
+;;228;;;;Palm Polishing Equipmentment;122.39;105.38;87,04;PEC;21
+;;229;;;;Millimeters Flushing Chemicals;295.56;251.82;241.75;PEC;22
+;;23;;;;Tailor Jacks;509.78;429.74;399.66;PEC;23
+;;230;;;;Suing Manufacturing Equipment;482.16;426.71;329;PEC;24
+;;231;;;;Bellowing Polishing Equipmentment;502.57;451.31;400;PEC;25
+;;232;;;;Embodying Cleaning Supplies;250.91;213.52;207.11;PEC;26
+;;233;;;;Pervasively Manufacturing Equipment;374.14;334.86;303;PEC;27
+;;234;;;;Septembers Manufacturing Equipment;584.33;522.98;217;PEC;28
+;;235;;;;Birthdays Manufacturing Equipment;196.56;173.17;115;PEC;29
+;;236;;;;Duplicator Polishing Equipmentment;544.28;465.36;409;PEC;30
+;;237;;;;Escape Manufacturing Equipment;584.38;523.6;463;PEC;31
+;;238;;;;Commendation Fillers;436.33;380.04;364.84;PEC;32
+;;239;;;;Disallow Manufacturing Equipment;165.24;145.91;97;PEC;33
+;;24;;;;Miniaturizing Manufacturing Equipment;456.24;379.59;325;PEC;34
+;;240;;;;Subclasses Polishing Equipmentment;282.51;239;210;PEC;35
+;;241;;;;Sulkiness Covers;354.3;289.82;272.43;PEC;36
+;;242;;;;Concentrators Polishing Equipmentment;584.57;524.94;472;PEC;37
+;;243;;;;Bomber Photo Equipmentment;461.34;400.44;336;PEC;38
+;;25;;;;Flake Photo Equipmentment;232.26;204.39;170;PEC;39
+;;26;;;;Denigrating Polishing Equipmentment;565.95;454.46;402;PEC;40
+;;27;;;;Bandage Manufacturing Equipment;298;267.01;234;PEC;41
+;;28;;;;Chalmers Polishing Equipmentment;289.17;242.61;215;PEC;42
+;;29;;;;Defeated Tray Supplies;559.74;476.9;448.29;PEC;43
+A   ;0001;320;Processing Equipment;Equipment;Photo Equipment;Flake Photo Equipment;232.26;204.39;194.17;TPCE;44
+A   ;0001;332;Processing Equipment;Equipment;Photo Equipment;Chartable Photo Equipment;410.17;347.41;312.67;TPCE;45
+A   ;0001;335;Processing Equipment;Equipment;Photo Equipment;Chromium Photo Equipment;565.5;457.49;425.47;TPCE;46
+A   ;0001;336;Processing Equipment;Equipment;Photo Equipment;Bomber Photo Equipment;461.34;400.44;380.42;TPCE;47
+A   ;0001;371;Processing Equipment;Equipment;Photo Equipment;Simulations Photo Equipment;318.38;255.66;245.43;TPCE;48
+A   ;0001;377;Processing Equipment;Equipment;Photo Equipment;Vastest Photo Equipment;498.08;442.3;420.19;TPCE;49
+A   ;0002;3100;Processing Equipment;Equipment;Manufacturing Equipment;Pervasively Manufacturing  Equipment;374.14;334.86;308.07;TPCE;50
+A   ;0002;318;Processing Equipment;Equipment;Manufacturing Equipment;Miniaturizing Manufacturing  Equipment;456.24;379.59;353.02;TPCE;51
+A   ;0002;324;Processing Equipment;Equipment;Manufacturing Equipment;Bandage Manufacturing  Equipment;298;267.01;253.66;TPCE;52
+A   ;0002;334;Processing Equipment;Equipment;Manufacturing Equipment;Sailors Manufacturing  Equipment;340.48;290.43;278.81;TPCE;53
+A   ;0002;340;Processing Equipment;Equipment;Manufacturing Equipment;Insensitivity Manufacturing  Equipment;200.71;180.44;169.61;TPCE;54
+A   ;0002;344;Processing Equipment;Equipment;Manufacturing Equipment;Birthdays Manufacturing  Equipment;196.56;173.17;161.05;TPCE;55
+A   ;0002;36;Processing Equipment;Equipment;Manufacturing Equipment;Planetesimal Manufacturing  Equipment;347.28;307;285.51;TPCE;56
+A   ;0002;360;Processing Equipment;Equipment;Manufacturing Equipment;Habitually Manufacturing  Equipment;509.3;419.15;394;TPCE;57
+A   ;0002;361;Processing Equipment;Equipment;Manufacturing Equipment;Courthouses Manufacturing  Equipment;285.62;243.63;231.45;TPCE;58
+A   ;0002;365;Processing Equipment;Equipment;Manufacturing Equipment;Extinguisher Manufacturing  Equipment;120.39;98.36;90.49;TPCE;59
+A   ;0002;367;Processing Equipment;Equipment;Manufacturing Equipment;Occlusion Manufacturing  Equipment;199.88;177.29;164.88;TPCE;60
+A   ;0002;370;Processing Equipment;Equipment;Manufacturing Equipment;Escape Manufacturing  Equipment;584.38;523.6;507.89;TPCE;61
+A   ;0002;38;Processing Equipment;Equipment;Manufacturing Equipment;Septembers Manufacturing  Equipment;584.33;522.98;517.75;TPCE;62
+A   ;0002;385;Processing Equipment;Equipment;Manufacturing Equipment;Disallow Manufacturing  Equipment;165.24;145.91;144.45;TPCE;63
+A   ;0002;387;Processing Equipment;Equipment;Manufacturing Equipment;Suing Manufacturing  Equipment;482.16;426.71;401.11;TPCE;64
+A   ;0003;31;Processing Equipment;Equipment;Polishing Equipment;Enumerator Polishing Equipment;164.97;142.53;135.4;TPCE;65
+A   ;0003;321;Processing Equipment;Equipment;Polishing Equipment;Denigrating Polishing Equipment;565.95;454.46;427.19;TPCE;66
+A   ;0003;325;Processing Equipment;Equipment;Polishing Equipment;Chalmers Polishing Equipment;289.17;242.61;223.2;TPCE;67
+A   ;0003;326;Processing Equipment;Equipment;Polishing Equipment;Subclasses Polishing Equipment;282.51;239;236.61;TPCE;68
+A   ;0003;337;Processing Equipment;Equipment;Polishing Equipment;Concentrators Polishing Equipment;584.57;524.94;482.94;TPCE;69
+A   ;0003;338;Processing Equipment;Equipment;Polishing Equipment;Syntax Polishing Equipment;226.72;190.9;177.54;TPCE;70
+A   ;0003;356;Processing Equipment;Equipment;Polishing Equipment;Allis Polishing Equipment;201.77;176.35;160.48;TPCE;71
+A   ;0003;363;Processing Equipment;Equipment;Polishing Equipment;Weeks Polishing Equipment;198.83;174.18;168.95;TPCE;72
+A   ;0003;368;Processing Equipment;Equipment;Polishing Equipment;Loaves Polishing Equipment;425.59;361.33;354.1;TPCE;73
+A   ;0003;381;Processing Equipment;Equipment;Polishing Equipment;Palm Polishing Equipment;122.39;105.38;103.27;TPCE;74
+A   ;0003;393;Processing Equipment;Equipment;Polishing Equipment;Bellowing Polishing Equipment;502.57;451.31;446.8;TPCE;75
+A   ;0003;395;Processing Equipment;Equipment;Polishing Equipment;Duplicator Polishing Equipment;544.28;465.36;432.78;TPCE;76
+A   ;1;120;Processing Equipment;Equipment;Photo Equipment;Flake Photo Equipment;232.26;204.39;194.17;TPCW;77
+A   ;1;132;Processing Equipment;Equipment;Photo Equipment;Chartable Photo Equipment;410.17;347.41;312.67;TPCW;78
+A   ;1;135;Processing Equipment;Equipment;Photo Equipment;Chromium Photo Equipment;565.5;457.49;425.47;TPCW;79
+A   ;1;136;Processing Equipment;Equipment;Photo Equipment;Bomber Photo Equipment;461.34;400.44;380.42;TPCW;80
+A   ;1;171;Processing Equipment;Equipment;Photo Equipment;Simulations Photo Equipment;318.38;255.66;245.43;TPCW;81
+A   ;1;177;Processing Equipment;Equipment;Photo Equipment;Vastest Photo Equipment;498.08;442.3;420.19;TPCW;82
+A   ;2;1100;Processing Equipment;Equipment;Manufacturing Equip;Pervasively Manufacturing Equipment;374.14;334.86;308.07;TPCW;83
+A   ;2;1106;Processing Equipment;Equipment;Manufacturing Equip;Insensitivity Manufacturing Equipment;200.71;180.44;169.61;TPCW;84
+A   ;2;118;Processing Equipment;Equipment;Manufacturing Equip;Miniaturizing Manufacturing Equipment;456.24;379.59;353.02;TPCW;85
+A   ;2;124;Processing Equipment;Equipment;Manufacturing Equip;Bandage Manufacturing Equipment;298;267.01;253.66;TPCW;86
+A   ;2;134;Processing Equipment;Equipment;Manufacturing Equip;Sailors Manufacturing Equipment;340.48;290.43;278.81;TPCW;87
+A   ;2;140;Processing Equipment;Equipment;Manufacturing Equip;Insensitivity Manufacturing Equipment;200.71;180.44;169.61;TPCW;88
+A   ;2;144;Processing Equipment;Equipment;Manufacturing Equip;Birthdays Manufacturing Equipment;196.56;173.17;161.05;TPCW;89
+A   ;2;16;Processing Equipment;Equipment;Manufacturing Equip;Planetesimal Manufacturing Equipment;347.28;307;285.51;TPCW;90
+A   ;2;160;Processing Equipment;Equipment;Manufacturing Equip;Habitually Manufacturing Equipment;509.3;419.15;394;TPCW;91
+A   ;2;161;Processing Equipment;Equipment;Manufacturing Equip;Courthouses Manufacturing Equipment;285.62;243.63;231.45;TPCW;92
+A   ;2;165;Processing Equipment;Equipment;Manufacturing Equip;Extinguisher Manufacturing Equipment;120.39;98.36;90.49;TPCW;93
+A   ;2;167;Processing Equipment;Equipment;Manufacturing Equip;Occlusion Manufacturing Equipment;199.88;177.29;164.88;TPCW;94
+A   ;2;170;Processing Equipment;Equipment;Manufacturing Equip;Escape Manufacturing Equipment;584.38;523.6;507.89;TPCW;95
+A   ;2;18;Processing Equipment;Equipment;Manufacturing Equip;Septembers Manufacturing Equipment;584.33;522.98;517.75;TPCW;96
+A   ;2;185;Processing Equipment;Equipment;Manufacturing Equip;Disallow Manufacturing Equipment;165.24;145.91;144.45;TPCW;97
+A   ;2;187;Processing Equipment;Equipment;Manufacturing Equip;Suing Manufacturing Equipment;482.16;426.71;401.11;TPCW;98
+A   ;3;11;Processing Equipment;Equipment;Polishing Equipment;Enumerator Polishing Equipment;164.97;142.53;135.4;TPCW;99
+A   ;3;121;Processing Equipment;Equipment;Polishing Equipment;Denigrating Polishing Equipment;565.95;454.46;427.19;TPCW;100
+A   ;3;125;Processing Equipment;Equipment;Polishing Equipment;Chalmers Polishing Equipment;289.17;242.61;223.2;TPCW;101
+A   ;3;126;Processing Equipment;Equipment;Polishing Equipment;Subclasses Polishing Equipment;282.51;239;236.61;TPCW;102
+A   ;3;137;Processing Equipment;Equipment;Polishing Equipment;Concentrators Polishing Equipment;584.57;524.94;482.94;TPCW;103
+A   ;3;138;Processing Equipment;Equipment;Polishing Equipment;Syntax Polishing Equipment;226.72;190.9;177.54;TPCW;104
+A   ;3;156;Processing Equipment;Equipment;Polishing Equipment;Allis Polishing Equipment;201.77;176.35;160.48;TPCW;105
+A   ;3;163;Processing Equipment;Equipment;Polishing Equipment;Weeks Polishing Equipment;198.83;174.18;168.95;TPCW;106
+A   ;3;168;Processing Equipment;Equipment;Polishing Equipment;Loaves Polishing Equipment;425.59;361.33;354.1;TPCW;107
+A   ;3;181;Processing Equipment;Equipment;Polishing Equipment;Palm Polishing Equipment;122.39;105.38;103.27;TPCW;108
+A   ;3;193;Processing Equipment;Equipment;Polishing Equipment;Bellowing Polishing Equipment;502.57;451.31;446.8;TPCW;109
+A   ;3;195;Processing Equipment;Equipment;Polishing Equipment;Duplicator Polishing Equipment;544.28;465.36;432.78;TPCW;110
+B   ;0005;317;Disposable Supplies;Supplies;Cleaning Supplies;Optima Cleaning Supplies;288.41;255.53;242.75;TPCE;111
+B   ;0005;34;Disposable Supplies;Supplies;Cleaning Supplies;Embodying Cleaning Supplies;250.91;213.52;207.11;TPCE;112
+B   ;0005;348;Disposable Supplies;Supplies;Cleaning Supplies;Patriarchal Cleaning Supplies;351.54;284.75;264.82;TPCE;113
+B   ;0005;386;Disposable Supplies;Supplies;Cleaning Supplies;Soya Cleaning Supplies;406.93;345.89;345.89;TPCE;114
+B   ;0005;390;Disposable Supplies;Supplies;Cleaning Supplies;Curiouser Cleaning Supplies;419.36;364.42;338.91;TPCE;115
+B   ;0005;396;Disposable Supplies;Supplies;Cleaning Supplies;Drafty Cleaning Supplies;107.13;92.67;88.96;TPCE;116
+B   ;0006;346;Disposable Supplies;Supplies;Paper Supplies;Distantly Paper Supplies;518.49;436.05;418.61;TPCE;117
+B   ;0006;350;Disposable Supplies;Supplies;Paper Supplies;Restarts Paper Supplies;524.38;448.34;425.92;TPCE;118
+B   ;0006;384;Disposable Supplies;Supplies;Paper Supplies;Unjust Paper Supplies;222.48;182.21;176.74;TPCE;119
+B   ;0006;389;Disposable Supplies;Supplies;Paper Supplies;Travel Paper Supplies;129.85;108.81;103.37;TPCE;120
+B   ;0006;397;Disposable Supplies;Supplies;Paper Supplies;Stickiest Paper Supplies;575.92;502.78;467.59;TPCE;121
+B   ;0007;327;Disposable Supplies;Supplies;Plastic Supplies;Pinnings Plastic Supplies;337.17;302.44;287.32;TPCE;122
+B   ;0007;339;Disposable Supplies;Supplies;Plastic Supplies;Overlays Plastic Supplies;301.08;254.41;241.69;TPCE;123
+B   ;0007;355;Disposable Supplies;Supplies;Plastic Supplies;Bumblers Plastic Supplies;545.31;466.24;447.59;TPCE;124
+B   ;0007;358;Disposable Supplies;Supplies;Plastic Supplies;Characterization Plastic Supplies;231.68;185.58;168.88;TPCE;125
+B   ;0007;359;Disposable Supplies;Supplies;Plastic Supplies;Tonnage Plastic Supplies;368.75;315.65;309.34;TPCE;126
+B   ;0007;379;Disposable Supplies;Supplies;Plastic Supplies;Siena Plastic Supplies;155.03;136.43;132.34;TPCE;127
+B   ;0007;380;Disposable Supplies;Supplies;Plastic Supplies;Temporally Plastic Supplies;477.53;408.29;371.54;TPCE;128
+B   ;0007;391;Disposable Supplies;Supplies;Plastic Supplies;Scribble Plastic Supplies;492.4;405.74;397.63;TPCE;129
+B   ;0008;310;Disposable Supplies;Supplies;Tray Supplies;Defeated Tray Supplies;559.74;476.9;448.29;TPCE;130
+B   ;0008;323;Disposable Supplies;Supplies;Tray Supplies;Decided Tray Supplies;233.3;202.27;198.22;TPCE;131
+B   ;0008;331;Disposable Supplies;Supplies;Tray Supplies;Simplifier Tray Supplies;408.81;349.12;328.17;TPCE;132
+B   ;0008;333;Disposable Supplies;Supplies;Tray Supplies;Consumable Tray Supplies;395.7;347.42;337;TPCE;133
+B   ;0008;341;Disposable Supplies;Supplies;Tray Supplies;Consideration Tray Supplies;172.56;146.85;139.51;TPCE;134
+B   ;0008;357;Disposable Supplies;Supplies;Tray Supplies;South Tray Supplies;241.3;205.1;203.05;TPCE;135
+B   ;0008;369;Disposable Supplies;Supplies;Tray Supplies;Hits Tray Supplies;439.53;359.1;341.14;TPCE;136
+B   ;0008;372;Disposable Supplies;Supplies;Tray Supplies;Anthem Tray Supplies;134.92;112.39;109.02;TPCE;137
+B   ;0008;388;Disposable Supplies;Supplies;Tray Supplies;Vestiges Tray Supplies;231.45;192.1;186.34;TPCE;138
+B   ;0008;392;Disposable Supplies;Supplies;Tray Supplies;Behind Tray Supplies;166.65;138.99;129.26;TPCE;139
+B   ;5;1101;Disposable Supplies;Supplies;Cleaning Supplies;Optima Cleaning Supplies;288.41;255.53;242.75;TPCW;140
+B   ;5;117;Disposable Supplies;Supplies;Cleaning Supplies;Optima Cleaning Supplies;288.41;255.53;242.75;TPCW;141
+B   ;5;14;Disposable Supplies;Supplies;Cleaning Supplies;Embodying Cleaning Supplies;250.91;213.52;207.11;TPCW;142
+B   ;5;148;Disposable Supplies;Supplies;Cleaning Supplies;Patriarchal Cleaning Supplies;351.54;284.75;264.82;TPCW;143
+B   ;5;186;Disposable Supplies;Supplies;Cleaning Supplies;Soya Cleaning Supplies;406.93;345.89;345.89;TPCW;144
+B   ;5;190;Disposable Supplies;Supplies;Cleaning Supplies;Curiouser Cleaning Supplies;419.36;364.42;338.91;TPCW;145
+B   ;5;196;Disposable Supplies;Supplies;Cleaning Supplies;Drafty Cleaning Supplies;107.13;92.67;88.96;TPCW;146
+B   ;6;1105;Disposable Supplies;Supplies;Paper Supplies;Just Paper Supplies;278.59;201.34;192.67;TPCW;147
+B   ;6;146;Disposable Supplies;Supplies;Paper Supplies;Distantly Paper Supplies;518.49;436.05;418.61;TPCW;148
+B   ;6;150;Disposable Supplies;Supplies;Paper Supplies;Restarts Paper Supplies;524.38;448.34;425.92;TPCW;149
+B   ;6;184;Disposable Supplies;Supplies;Paper Supplies;Unjust Paper Supplies;222.48;182.21;176.74;TPCW;150
+B   ;6;189;Disposable Supplies;Supplies;Paper Supplies;Travel Paper Supplies;129.85;108.81;103.37;TPCW;151
+B   ;6;197;Disposable Supplies;Supplies;Paper Supplies;Stickiest Paper Supplies;575.92;502.78;467.59;TPCW;152
+B   ;7;127;Disposable Supplies;Supplies;Plastic Supplies;Pinnings Plastic Supplies;337.17;302.44;287.32;TPCW;153
+B   ;7;139;Disposable Supplies;Supplies;Plastic Supplies;Overlays Plastic Supplies;301.08;254.41;241.69;TPCW;154
+B   ;7;155;Disposable Supplies;Supplies;Plastic Supplies;Bumblers Plastic Supplies;545.31;466.24;447.59;TPCW;155
+B   ;7;158;Disposable Supplies;Supplies;Plastic Supplies;Characterization Plastic Supplies;231.68;185.58;168.88;TPCW;156
+B   ;7;159;Disposable Supplies;Supplies;Plastic Supplies;Tonnage Plastic Supplies;368.75;315.65;309.34;TPCW;157
+B   ;7;179;Disposable Supplies;Supplies;Plastic Supplies;Siena Plastic Supplies;155.03;136.43;132.34;TPCW;158
+B   ;7;180;Disposable Supplies;Supplies;Plastic Supplies;Temporally Plastic Supplies;477.53;408.29;371.54;TPCW;159
+B   ;7;191;Disposable Supplies;Supplies;Plastic Supplies;Scribble Plastic Supplies;492.4;405.74;397.63;TPCW;160
+B   ;8;110;Disposable Supplies;Supplies;Tray Supplies;Defeated Tray Supplies;559.74;476.9;448.29;TPCW;161
+B   ;8;123;Disposable Supplies;Supplies;Tray Supplies;Decided Tray Supplies;233.3;202.27;198.22;TPCW;162
+B   ;8;131;Disposable Supplies;Supplies;Tray Supplies;Simplifier Tray Supplies;408.81;349.12;328.17;TPCW;163
+B   ;8;133;Disposable Supplies;Supplies;Tray Supplies;Consumable Tray Supplies;395.7;347.42;337;TPCW;164
+B   ;8;141;Disposable Supplies;Supplies;Tray Supplies;Consideration Tray Supplies;172.56;146.85;139.51;TPCW;165
+B   ;8;157;Disposable Supplies;Supplies;Tray Supplies;South Tray Supplies;241.3;205.1;203.05;TPCW;166
+B   ;8;169;Disposable Supplies;Supplies;Tray Supplies;Hits Tray Supplies;439.53;359.1;341.14;TPCW;167
+B   ;8;172;Disposable Supplies;Supplies;Tray Supplies;Anthem Tray Supplies;134.92;112.39;109.02;TPCW;168
+B   ;8;188;Disposable Supplies;Supplies;Tray Supplies;Vestiges Tray Supplies;231.45;192.1;186.34;TPCW;169
+B   ;8;192;Disposable Supplies;Supplies;Tray Supplies;Behind Tray Supplies;166.65;138.99;129.26;TPCW;170
+C   ;0009;312;Chemicals;Chemicals;Photo Chemicals;Travelings Photo Chemicals;274.39;242.01;225.07;TPCE;171
+C   ;0009;314;Chemicals;Chemicals;Photo Chemicals;Engle Photo Chemicals;429.94;346.1;342.64;TPCE;172
+C   ;0009;354;Chemicals;Chemicals;Photo Chemicals;Honeymoon Photo Chemicals;326.13;292.21;271.76;TPCE;173
+C   ;0009;378;Chemicals;Chemicals;Photo Chemicals;Measured Photo Chemicals;318.06;270.67;254.43;TPCE;174
+C   ;0010;349;Chemicals;Chemicals;Flushing Chemicals;Visage Flushing Chemicals;567.75;507.57;466.96;TPCE;175
+C   ;0010;362;Chemicals;Chemicals;Flushing Chemicals;Substances Flushing Chemicals;507.34;409.93;397.63;TPCE;176
+C   ;0010;39;Chemicals;Chemicals;Flushing Chemicals;Millimeters Flushing Chemicals;295.56;251.82;241.75;TPCE;177
+C   ;0010;398;Chemicals;Chemicals;Flushing Chemicals;Barrels Flushing Chemicals;135.1;116.59;108.43;TPCE;178
+C   ;0011;342;Chemicals;Chemicals;Freezing Chemicals;Carelessly Freezing Chemicals;559.67;467.88;425.77;TPCE;179
+C   ;0011;347;Chemicals;Chemicals;Freezing Chemicals;Significants Freezing Chemicals;141.55;113.24;104.18;TPCE;180
+C   ;0011;352;Chemicals;Chemicals;Freezing Chemicals;Identical Freezing Chemicals;578.07;465.92;447.28;TPCE;181
+C   ;0011;353;Chemicals;Chemicals;Freezing Chemicals;Ruffle Freezing Chemicals;476.38;394.92;379.12;TPCE;182
+C   ;0011;366;Chemicals;Chemicals;Freezing Chemicals;Exemplar Freezing Chemicals;198.4;160.9;152.85;TPCE;183
+C   ;0011;375;Chemicals;Chemicals;Freezing Chemicals;Deferrable Freezing Chemicals;145.03;124.44;113.24;TPCE;184
+C   ;0011;394;Chemicals;Chemicals;Freezing Chemicals;Beliefs Freezing Chemicals;566.64;483.91;454.88;TPCE;185
+C   ;0011;399;Chemicals;Chemicals;Freezing Chemicals;Richards Freezing Chemicals;529.35;475.36;470.61;TPCE;186
+C   ;10;149;Chemicals;Chemicals;Flushing Chemicals;Visage Flushing Chemicals;567.75;507.57;466.96;TPCW;187
+C   ;10;162;Chemicals;Chemicals;Flushing Chemicals;Substances Flushing Chemicals;507.34;409.93;397.63;TPCW;188
+C   ;10;19;Chemicals;Chemicals;Flushing Chemicals;Millimeters Flushing Chemicals;295.56;251.82;241.75;TPCW;189
+C   ;10;198;Chemicals;Chemicals;Flushing Chemicals;Barrels Flushing Chemicals;135.1;116.59;108.43;TPCW;190
+C   ;11;142;Chemicals;Chemicals;Freezing Chemicals;Carelessly Freezing Chemicals;559.67;467.88;425.77;TPCW;191
+C   ;11;147;Chemicals;Chemicals;Freezing Chemicals;Significants Freezing Chemicals;141.55;113.24;104.18;TPCW;192
+C   ;11;152;Chemicals;Chemicals;Freezing Chemicals;Identical Freezing Chemicals;578.07;465.92;447.28;TPCW;193
+C   ;11;153;Chemicals;Chemicals;Freezing Chemicals;Ruffle Freezing Chemicals;476.38;394.92;379.12;TPCW;194
+C   ;11;166;Chemicals;Chemicals;Freezing Chemicals;Exemplar Freezing Chemicals;198.4;160.9;152.85;TPCW;195
+C   ;11;175;Chemicals;Chemicals;Freezing Chemicals;Deferrable Freezing Chemicals;145.03;124.44;113.24;TPCW;196
+C   ;11;194;Chemicals;Chemicals;Freezing Chemicals;Beliefs Freezing Chemicals;566.64;483.91;454.88;TPCW;197
+C   ;11;199;Chemicals;Chemicals;Freezing Chemicals;Richards Freezing Chemicals;529.35;475.36;470.61;TPCW;198
+C   ;9;1102;Chemicals;Chemicals;Photo Chemicals;Measured Photo Chemicals;318.06;270.67;254.43;TPCW;199
+C   ;9;114;Chemicals;Chemicals;Photo Chemicals;Engle Photo Chemicals;429.94;346.1;342.64;TPCW;200
+C   ;9;154;Chemicals;Chemicals;Photo Chemicals;Honeymoon Photo Chemicals;326.13;292.21;271.76;TPCW;201
+C   ;9;178;Chemicals;Chemicals;Photo Chemicals;Measured Photo Chemicals;318.06;270.67;254.43;TPCW;202
+D   ;0012;315;Miscellaneous;Miscellaneous;Fillers;Disposed Fillers;158.84;138.03;132.51;TPCE;203
+D   ;0012;329;Miscellaneous;Miscellaneous;Fillers;Bluest Fillers;507.35;428.2;398.23;TPCE;204
+D   ;0012;35;Miscellaneous;Miscellaneous;Fillers;Automobiles Fillers;283.83;227.63;218.52;TPCE;205
+D   ;0012;364;Miscellaneous;Miscellaneous;Fillers;Berwick Fillers;583.85;487.51;463.13;TPCE;206
+D   ;0012;37;Miscellaneous;Miscellaneous;Fillers;Commendation Fillers;436.33;380.04;364.84;TPCE;207
+D   ;0012;374;Miscellaneous;Miscellaneous;Fillers;Flanker Fillers;271.44;236.15;219.62;TPCE;208
+D   ;0013;311;Miscellaneous;Miscellaneous;Covers;Sulkiness Covers;354.3;289.82;272.43;TPCE;209
+D   ;0013;313;Miscellaneous;Miscellaneous;Covers;Coward Covers;429.79;348.99;328.05;TPCE;210
+D   ;0013;316;Miscellaneous;Miscellaneous;Covers;Enhanced Covers;460.96;384.44;361.37;TPCE;211
+D   ;0013;322;Miscellaneous;Miscellaneous;Covers;Whippers Covers;488.61;410.43;389.91;TPCE;212
+D   ;0013;328;Miscellaneous;Miscellaneous;Covers;Wonderingly Covers;547.21;467.32;453.3;TPCE;213
+D   ;0013;33;Miscellaneous;Miscellaneous;Covers;Sortie Covers;248.21;213.21;206.81;TPCE;214
+D   ;0013;343;Miscellaneous;Miscellaneous;Covers;Blazed Covers;495;416.79;404.29;TPCE;215
+D   ;0013;382;Miscellaneous;Miscellaneous;Covers;Numerals Covers;102.87;88.98;83.64;TPCE;216
+D   ;0014;351;Miscellaneous;Miscellaneous;Lifts;Reflection Lifts;497.85;447.57;438.62;TPCE;217
+D   ;0014;383;Miscellaneous;Miscellaneous;Lifts;Horses Lifts;487.3;402.51;366.28;TPCE;218
+D   ;0015;319;Miscellaneous;Miscellaneous;Jacks;Hesitating Jacks;124.46;100.07;96.07;TPCE;219
+D   ;0015;32;Miscellaneous;Miscellaneous;Jacks;Tailor Jacks;509.78;429.74;399.66;TPCE;220
+D   ;0015;330;Miscellaneous;Miscellaneous;Jacks;Detectives Jacks;283.32;248.47;236.05;TPCE;221
+D   ;0015;345;Miscellaneous;Miscellaneous;Jacks;Slacking Jacks;495.04;399.99;387.99;TPCE;222
+D   ;0015;373;Miscellaneous;Miscellaneous;Jacks;Cosgrove Jacks;298.87;267.79;254.4;TPCE;223
+D   ;0015;376;Miscellaneous;Miscellaneous;Jacks;Scrounge Jacks;301.58;251.22;248.71;TPCE;224
+D   ;12;112;Miscellaneous;Miscellaneous;Fillers;Travelings Photo Chemicals;274.39;242.01;225.07;TPCW;225
+D   ;12;115;Miscellaneous;Miscellaneous;Fillers;Disposed Fillers;158.84;138.03;132.51;TPCW;226
+D   ;12;129;Miscellaneous;Miscellaneous;Fillers;Bluest Fillers;507.35;428.2;398.23;TPCW;227
+D   ;12;15;Miscellaneous;Miscellaneous;Fillers;Automobiles Fillers;283.83;227.63;218.52;TPCW;228
+D   ;12;164;Miscellaneous;Miscellaneous;Fillers;Berwick Fillers;583.85;487.51;463.13;TPCW;229
+D   ;12;17;Miscellaneous;Miscellaneous;Fillers;Commendation Fillers;436.33;380.04;364.84;TPCW;230
+D   ;12;174;Miscellaneous;Miscellaneous;Fillers;Flanker Fillers;271.44;236.15;219.62;TPCW;231
+D   ;13;1104;Miscellaneous;Miscellaneous;Covers;LCARS Covers;289.41;231.42;211.76;TPCW;232
+D   ;13;111;Miscellaneous;Miscellaneous;Covers;Sulkiness Covers;354.3;289.82;272.43;TPCW;233
+D   ;13;113;Miscellaneous;Miscellaneous;Covers;Coward Covers;429.79;348.99;328.05;TPCW;234
+D   ;13;116;Miscellaneous;Miscellaneous;Covers;Enhanced Covers;460.96;384.44;361.37;TPCW;235
+D   ;13;122;Miscellaneous;Miscellaneous;Covers;Whippers Covers;488.61;410.43;389.91;TPCW;236
+D   ;13;128;Miscellaneous;Miscellaneous;Covers;Wonderingly Covers;547.21;467.32;453.3;TPCW;237
+D   ;13;13;Miscellaneous;Miscellaneous;Covers;Sortie Covers;248.21;213.21;206.81;TPCW;238
+D   ;13;143;Miscellaneous;Miscellaneous;Covers;Blazed Covers;495;416.79;404.29;TPCW;239
+D   ;13;182;Miscellaneous;Miscellaneous;Covers;Numerals Covers;102.87;88.98;83.64;TPCW;240
+D   ;14;1103;Miscellaneous;Miscellaneous;Lifts;Whale Lifts;493.4;406.78;385.43;TPCW;241
+D   ;14;151;Miscellaneous;Miscellaneous;Lifts;Reflection Lifts;497.85;447.57;438.62;TPCW;242
+D   ;14;183;Miscellaneous;Miscellaneous;Lifts;Horses Lifts;487.3;402.51;366.28;TPCW;243
+D   ;15;119;Miscellaneous;Miscellaneous;Jacks;Hesitating Jacks;124.46;100.07;96.07;TPCW;244
+D   ;15;12;Miscellaneous;Miscellaneous;Jacks;Tailor Jacks;509.78;429.74;399.66;TPCW;245
+D   ;15;130;Miscellaneous;Miscellaneous;Jacks;Detectives Jacks;283.32;248.47;236.05;TPCW;246
+D   ;15;145;Miscellaneous;Miscellaneous;Jacks;Slacking Jacks;495.04;399.99;387.99;TPCW;247
+D   ;15;173;Miscellaneous;Miscellaneous;Jacks;Cosgrove Jacks;298.87;267.79;254.4;TPCW;248
+D   ;15;176;Miscellaneous;Miscellaneous;Jacks;Scrounge Jacks;301.58;251.22;248.71;TPCW;249
